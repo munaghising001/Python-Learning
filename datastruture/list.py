@@ -28,7 +28,7 @@
 
 # print(dir(list))
 
-
+# mean of element
 
 l = [12,435,67,89,23,25]
 
